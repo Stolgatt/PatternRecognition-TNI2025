@@ -52,7 +52,8 @@ Dans la deuxième partie du projet, une macro doit être écrite pour analyser d
 
 ## Auteurs
 
-- **Alexis CHAVY (alias [Stolgatt](https://github.com/Stolgatt)) et Victor Davillé (alias [Enkodo01](https://github.com/Enkodo01))**
+- **Alexis CHAVY (alias [Stolgatt](https://github.com/Stolgatt))**
+- **Victor Davillé (alias [Enkodo01](https://github.com/Enkodo01))**
 
 
 
